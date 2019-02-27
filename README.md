@@ -1,2 +1,6 @@
 ## Post Commit Demo 
-ffff
+
+#make script executable:
+```
+chmod +x script.sh
+```
